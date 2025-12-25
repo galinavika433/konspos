@@ -7,3 +7,4 @@ wxPython
 PyQT
 PySimpleGUI - судя по статье, она лучше других
 
+
